@@ -12,7 +12,6 @@
 <table>
   <td>Linkedin Profile: <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="andremoriouannous" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/andremoriouannous?trk=profile-badge">Linkedin</a>
    </td>
-    <td>
         <td>HackerRank Profile: <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="andremoriouannous" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.hackerrank.com/semkiti">HackerRank</a>
    </td>
 </table>
